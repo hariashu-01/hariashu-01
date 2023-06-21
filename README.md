@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @hariashu-01
-- 👀 I’m interested in Development
-- 🌱 I’m currently learning Developing
-- 💞️ I’m looking to collaborate on Salesforce
-- 📫 How to reach me 8825783761
+- 👋 Hi, I’m Hariharan
+
+A motivated Certified Salesforce Administrator/Developer with 1 year experience, Ranger at Trailhead and experienced user in Salesforce Platform. . Self-motivated, team-oriented individual with strong problem-solving abilities.
 
 <!---
 hariashu-01/hariashu-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
